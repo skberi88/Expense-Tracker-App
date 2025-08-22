@@ -48,3 +48,9 @@ Expense-Tracker/
    npm start
 5. Open in browser(automatically opens):
    http://localhost:3000
+
+## 🎯 Future Enhancements
+1. User authentication (login/signup).
+2. Connect with a backend.
+3. Export reports to PDF/CSV.
+4. Budget setting & notifications.
